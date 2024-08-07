@@ -1,0 +1,15 @@
+E:\.NET\DoAn\QuanLyPhuKienDienThoai\QuanLyPhuKienDienThoai\bin\Debug\QuanLyPhuKienDienThoai.exe.config
+E:\.NET\DoAn\QuanLyPhuKienDienThoai\QuanLyPhuKienDienThoai\bin\Debug\QuanLyPhuKienDienThoai.exe
+E:\.NET\DoAn\QuanLyPhuKienDienThoai\QuanLyPhuKienDienThoai\bin\Debug\QuanLyPhuKienDienThoai.pdb
+E:\.NET\DoAn\QuanLyPhuKienDienThoai\QuanLyPhuKienDienThoai\obj\Debug\QuanLyPhuKienDienThoai.csproj.AssemblyReference.cache
+E:\.NET\DoAn\QuanLyPhuKienDienThoai\QuanLyPhuKienDienThoai\obj\Debug\QuanLyPhuKienDienThoai.frm_DangNhap.resources
+E:\.NET\DoAn\QuanLyPhuKienDienThoai\QuanLyPhuKienDienThoai\obj\Debug\QuanLyPhuKienDienThoai.frm_KhachHang.resources
+E:\.NET\DoAn\QuanLyPhuKienDienThoai\QuanLyPhuKienDienThoai\obj\Debug\QuanLyPhuKienDienThoai.frm_LoaiSP.resources
+E:\.NET\DoAn\QuanLyPhuKienDienThoai\QuanLyPhuKienDienThoai\obj\Debug\QuanLyPhuKienDienThoai.frm_Main.resources
+E:\.NET\DoAn\QuanLyPhuKienDienThoai\QuanLyPhuKienDienThoai\obj\Debug\QuanLyPhuKienDienThoai.frm_NSX.resources
+E:\.NET\DoAn\QuanLyPhuKienDienThoai\QuanLyPhuKienDienThoai\obj\Debug\QuanLyPhuKienDienThoai.frm_TaiKhoan.resources
+E:\.NET\DoAn\QuanLyPhuKienDienThoai\QuanLyPhuKienDienThoai\obj\Debug\QuanLyPhuKienDienThoai.Properties.Resources.resources
+E:\.NET\DoAn\QuanLyPhuKienDienThoai\QuanLyPhuKienDienThoai\obj\Debug\QuanLyPhuKienDienThoai.csproj.GenerateResource.cache
+E:\.NET\DoAn\QuanLyPhuKienDienThoai\QuanLyPhuKienDienThoai\obj\Debug\QuanLyPhuKienDienThoai.csproj.CoreCompileInputs.cache
+E:\.NET\DoAn\QuanLyPhuKienDienThoai\QuanLyPhuKienDienThoai\obj\Debug\QuanLyPhuKienDienThoai.exe
+E:\.NET\DoAn\QuanLyPhuKienDienThoai\QuanLyPhuKienDienThoai\obj\Debug\QuanLyPhuKienDienThoai.pdb
